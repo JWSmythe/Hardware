@@ -5,10 +5,13 @@ Datasheet Revision Date: 20220820
 
 This product was made in cooperation with:
 D.A.R.A.		http://www.dararobots.com/
+
 JWSmythe		https://jwsmythe.com/
+
 Makerspace Pinellas 	https://makerspacepinellas.com/
 
 Features 
+
 16 pins - 2 banks of 8 sensor pins - bidirectional analog or digital on all ports.
 Common pullup/pulldown pin connections for each sensor pin
 Selectable pullup or pulldown per bank, or user defined electrical source
