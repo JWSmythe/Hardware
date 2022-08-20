@@ -1,6 +1,7 @@
 This is the documentation for the 
 D.A.R.A Sensor Board - Small  (SBS) 1.0 
 Digital multiplexer for analog and digital sensors 
+
 Datasheet Revision Date: 20220820
 
 This product was made in cooperation with:
